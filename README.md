@@ -1,2 +1,2 @@
-# sumikko-gurashi-1
+# sumikko-gurashi
 角落生物1
